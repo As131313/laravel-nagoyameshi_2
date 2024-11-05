@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\URL;
 
 
-class AppServiceProvider extends ServiceProvider;
+class AppServiceProvider extends ServiceProvider
 
 {
     /**
